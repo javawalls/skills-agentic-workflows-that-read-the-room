@@ -19,7 +19,7 @@ network:
 tools:
   bash: [cat]
   edit: true
-  web-fetch: true
+  web-fetch: {}
 safe-outputs:
   create-pull-request:
     allowed-files:
