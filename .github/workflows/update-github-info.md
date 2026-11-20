@@ -49,3 +49,5 @@ use the configured `create-pull-request` safe output to open one non-draft PR
 against `main` for Mona to review. Summarize the changes and include the source
 links in the PR description. Never write directly to `main` or use another
 GitHub write mechanism.
+
+Open a pull request for Mona to review.
