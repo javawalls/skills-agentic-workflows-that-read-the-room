@@ -16,6 +16,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   bash: [cat]
   edit: true
@@ -32,7 +33,8 @@ safe-outputs:
 
 Read `notes/mona-notes.md` and `site/content/github-info.md`. Fetch both
 https://github.blog/latest/ and https://github.blog/changelog/ with the web-fetch
-tool. Follow links on those official GitHub sites when needed to verify details.
+tool. Also web fetch https://awesome-copilot.github.com/workflows/. Follow links
+on those official sites when needed to verify details.
 
 Select up to three recent, genuinely useful updates that help developers learn
 GitHub faster or fit the page's existing themes. Keep the summaries short and
